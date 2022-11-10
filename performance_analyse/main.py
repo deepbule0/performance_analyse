@@ -1,4 +1,3 @@
-# yang shen 20009101459
 # This is my performance analyse project.
 import matplotlib.pyplot as plt
 import pandas as pd
