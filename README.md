@@ -15,6 +15,12 @@ This mini_project realizes visual display of score results using python data ana
 
 <br/>
 
+## Result figure
+![Figure_2](https://user-images.githubusercontent.com/77818748/201010843-51f5ab59-aeb0-47d6-81a5-4922fa0a61d3.png)
+![Figure_3](https://user-images.githubusercontent.com/77818748/201010876-9a25b29d-3d5e-4b18-b582-f6ff33203323.png)
+
+<br/>
+
 ## NOTICE
 Due to privacy issues, only the bar chart of average scores of each class and the pie chart which shows the proportion of top 100 students in each class's total score will be published
 
@@ -43,6 +49,12 @@ Due to privacy issues, only the bar chart of average scores of each class and th
 3.分离出各班成绩排名，输出各班总成绩、各个模块平均分柱状图 <br/>
 4.饼状图绘制各班总成绩前一百名占比情况 <br/>
  
+ <br/>
+
+## 结果图
+![Figure_2](https://user-images.githubusercontent.com/77818748/201010843-51f5ab59-aeb0-47d6-81a5-4922fa0a61d3.png)
+![Figure_3](https://user-images.githubusercontent.com/77818748/201010876-9a25b29d-3d5e-4b18-b582-f6ff33203323.png)
+
 <br/>
 
 ## 注意
