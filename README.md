@@ -43,13 +43,47 @@ Due to privacy issues, only the bar chart of average scores of each class and th
 
 <br/>
 
-## 主要功能：
+## 主要功能
 1.输入学号可以得到你的各项成绩排名 <br/>
 2.可显示个人的蜘蛛图，包含个人总成绩、各个模块成绩，并显示与最高分、平均分和第一名的对比 <br/>
 3.分离出各班成绩排名，输出各班总成绩、各个模块平均分柱状图 <br/>
 4.饼状图绘制各班总成绩前一百名占比情况 <br/>
  
  <br/>
+
+## 输入示例
+
+请输入您的学号：  <br/>
+xxxxxxxxx  <br/>
+
+<br/>
+
+是否要显示您的各项成绩排名（y/n）： <br/>
+y  <br/>
+总成绩 xx    <br/>
+M1      xx   <br/>
+M2      xx   <br/>
+M3      xx   <br/>
+M4      xx   <br/>
+M5      xx   <br/>
+Name: xx, dtype: float64 <br/>
+
+<br/>
+
+是否要显示您的成绩蜘蛛图（y/n）： <br/>
+y <br/>
+
+<br/>
+
+是否显示各班总成绩和各模块平均值柱状图（y/n）： <br/>
+y <br/>
+
+<br/>
+
+是否显示前100名各班人数占比饼状图（y/n）： <br/> 
+y <br/> 
+
+<br/>
 
 ## 结果图
 ![Figure_2](https://user-images.githubusercontent.com/77818748/201010843-51f5ab59-aeb0-47d6-81a5-4922fa0a61d3.png)
